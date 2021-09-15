@@ -1,9 +1,12 @@
-github_backup
+github_backup_software_archive
 =============
 
-Clone github's repositories found on https://github.com/github/dmca before takedown by DMCA.
+Clone github's repositories found on https://github.com/github/dmca before takedown by DMCA. This fork will aim to modify the original project to submit repositories
+to https://archive.softwareheritage.org/ .
 
 
+//Currently at the planning stage
+//
 How to use ?
 ============
 
